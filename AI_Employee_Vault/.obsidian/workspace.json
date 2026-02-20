@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Company_Handbook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "Company_Handbook"
             }
           }
         ]
@@ -185,10 +185,17 @@
   },
   "active": "c866efc5929ebf25",
   "lastOpenFiles": [
+    "Done/DONE_TASK_FROM_INBOX_test_task_1771609642.md",
+    "Dashboard.md",
+    "Archive/ARCHIVED_TASK_FROM_INBOX_test_task_1771609642.md",
+    "Archive/ARCHIVED_FILE_DROP_test_document_1771602445.md",
+    "Done/DONE_FILE_DROP_test_document_1771602445.md",
+    "Logs/log_2026-02-20.json",
+    "Needs_Action/TASK_FROM_INBOX_test_task_1771609642.md",
+    "Alerts",
     "Done/TASK_Process_Inbox_Message_1771602455.md",
     "Done/RESPONSE_to_hello_agent_1771602450.md",
     "Needs_Action/TASK_Process_Inbox_Message_1771602455.md",
-    "Dashboard.md",
     "Needs_Action/RESPONSE_to_hello_agent_1771602450.md",
     "Done/DONE_sample_task_1771602439.md",
     "Archive/ARCHIVED_sample_task_1771602439.md",
