@@ -1,0 +1,2 @@
+This is a test document that simulates a file being dropped into the monitored folder.
+The filesystem watcher should detect this file and create an action item in the Needs_Action folder.
