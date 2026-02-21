@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "09d970b976e57fc8",
+        "id": "800163c8ce089c69",
         "type": "tabs",
         "children": [
           {
-            "id": "c866efc5929ebf25",
+            "id": "53c5b1dd3e8f523b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Company_Handbook.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Company_Handbook"
+              "title": "New tab"
             }
           }
         ]
@@ -183,16 +179,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "c866efc5929ebf25",
+  "active": "2af002097ce471a0",
   "lastOpenFiles": [
+    "Plans/PLAN_1771696268_high.md",
+    "Pending_Approval/APPROVAL_LINKEDIN_POST_1771694611.md",
+    "Plans/LINKEDIN_POST_PLAN_1771694611.md",
+    "Archive/ARCHIVED_TASK_FROM_INBOX_test_task_1771694562.md",
+    "Done/DONE_TASK_FROM_INBOX_test_task_1771694562.md",
+    "Needs_Action/TASK_FROM_INBOX_test_task_1771694562.md",
+    "Templates/desktop.ini",
+    "Templates/Email",
+    "Templates",
+    "Plans/PLAN_1771689432_high.md",
+    "Company_Handbook.md",
+    "Tasks/daily_report.bat",
+    "Schedules/daily_report_schedule.json",
+    "Tasks/gmail_checker.bat",
+    "Schedules/gmail_checker_schedule.json",
+    "Tasks/linkedin_poster.bat",
+    "Schedules/linkedin_poster_schedule.json",
+    "Tasks",
+    "Archive/ARCHIVED_TASK_FROM_INBOX_test_task_1771689207.md",
+    "Done/DONE_TASK_FROM_INBOX_test_task_1771689207.md",
+    "Needs_Action/TASK_FROM_INBOX_test_task_1771689207.md",
     "Done/DONE_TASK_FROM_INBOX_test_task_1771609642.md",
     "Dashboard.md",
     "Archive/ARCHIVED_TASK_FROM_INBOX_test_task_1771609642.md",
     "Archive/ARCHIVED_FILE_DROP_test_document_1771602445.md",
     "Done/DONE_FILE_DROP_test_document_1771602445.md",
-    "Logs/log_2026-02-20.json",
     "Needs_Action/TASK_FROM_INBOX_test_task_1771609642.md",
-    "Alerts",
     "Done/TASK_Process_Inbox_Message_1771602455.md",
     "Done/RESPONSE_to_hello_agent_1771602450.md",
     "Needs_Action/TASK_Process_Inbox_Message_1771602455.md",
@@ -201,9 +216,6 @@
     "Archive/ARCHIVED_sample_task_1771602439.md",
     "Needs_Action/FILE_DROP_test_document_1771602445.md",
     "Inbox/test_task.md",
-    "Untitled.md",
-    "Company_Handbook.md",
-    "Archive",
-    "Needs_Action/sample_task_1771602439.md"
+    "Untitled.md"
   ]
 }

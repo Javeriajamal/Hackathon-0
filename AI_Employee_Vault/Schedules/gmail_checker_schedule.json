@@ -1,0 +1,9 @@
+{
+  "task_name": "gmail_checker",
+  "command": "python C:\\Users\\Ahamed Jamal\\OneDrive\\Documents\\GitHub\\Hackathon-0/gmail_watcher.py AI_Employee_Vault --test",
+  "schedule": "@hourly",
+  "description": "Check Gmail for important emails",
+  "created_at": "2026-02-21T20:54:13.504920",
+  "enabled": true,
+  "platform": "windows"
+}

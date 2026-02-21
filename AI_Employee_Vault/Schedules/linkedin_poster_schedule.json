@@ -1,0 +1,9 @@
+{
+  "task_name": "linkedin_poster",
+  "command": "python C:\\Users\\Ahamed Jamal\\OneDrive\\Documents\\GitHub\\Hackathon-0/linkedin_poster.py AI_Employee_Vault --test",
+  "schedule": "@hourly",
+  "description": "Post business updates to LinkedIn to generate sales",
+  "created_at": "2026-02-21T20:54:13.373071",
+  "enabled": true,
+  "platform": "windows"
+}
