@@ -1,0 +1,10 @@
+{
+  "timestamp": "2026-02-23T21:32:26.962165",
+  "severity": "critical",
+  "error_type": "Exception",
+  "error_message": "Disk space critically low",
+  "context": "storage_manager_system",
+  "traceback": "NoneType: None\n",
+  "module": null,
+  "category": "system"
+}

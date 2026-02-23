@@ -1,0 +1,52 @@
+[
+  {
+    "timestamp": "2026-02-23T21:32:26.801091",
+    "severity": "warning",
+    "error_type": "Exception",
+    "error_message": "Invalid API token",
+    "context": "odoo_integration_auth",
+    "traceback": "NoneType: None\n",
+    "module": null,
+    "category": "data"
+  },
+  {
+    "timestamp": "2026-02-23T21:32:26.804200",
+    "severity": "error",
+    "error_type": "Exception",
+    "error_message": "Unexpected data format",
+    "context": "data_processor_logic",
+    "traceback": "NoneType: None\n",
+    "module": null,
+    "category": "logic"
+  },
+  {
+    "timestamp": "2026-02-23T21:32:26.885448",
+    "severity": "error",
+    "error_type": "Exception",
+    "error_message": "Corrupted file detected",
+    "context": "file_reader_data",
+    "traceback": "NoneType: None\n",
+    "module": null,
+    "category": "data"
+  },
+  {
+    "timestamp": "2026-02-23T21:32:26.962165",
+    "severity": "critical",
+    "error_type": "Exception",
+    "error_message": "Disk space critically low",
+    "context": "storage_manager_system",
+    "traceback": "NoneType: None\n",
+    "module": null,
+    "category": "system"
+  },
+  {
+    "timestamp": "2026-02-23T21:32:26.995054",
+    "severity": "error",
+    "error_type": "Exception",
+    "error_message": "Sample error for recovery test",
+    "context": "test_component_logic",
+    "traceback": "NoneType: None\n",
+    "module": null,
+    "category": "logic"
+  }
+]

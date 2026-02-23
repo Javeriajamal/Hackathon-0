@@ -1,0 +1,9 @@
+[
+  {
+    "timestamp": "2026-02-23T21:32:27.084234",
+    "service": "gmail_watcher",
+    "reason": "API rate limit exceeded",
+    "degraded_functions": [],
+    "alternative_methods": []
+  }
+]
